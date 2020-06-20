@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b1e76f7a-8c4e-4549-a279-5f7d99a00738" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/css/button.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/main-block.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/menu.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/about-us.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/icon-1.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/icon-2.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/icon-3.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/icon-4.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/img-block-1.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/img-block-2.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/item.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/logo-white.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/logo-white.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/main-img.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/p1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/p2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/section-start-test.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/section-start-test.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/libs.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/button.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/main-block.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/main.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/menu.sass" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="Tony" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="E:\my proects\lms__mitso\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1cPVgC3wtZqcUEj2J04aZGIxCfw" />
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b1e76f7a-8c4e-4549-a279-5f7d99a00738" name="Default Changelist" comment="" />
+      <created>1590394382191</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590394382191</updated>
+      <workItem from="1590394384156" duration="13055000" />
+      <workItem from="1590430330063" duration="105000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State />
+          </value>
+        </entry>
+        <entry key="2">
+          <value>
+            <State />
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+  </component>
+</project>
