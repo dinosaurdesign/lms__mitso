@@ -1,0 +1,225 @@
+@import "../../node_modules/slick-carousel/slick/slick"
+
+a
+  text-decoration: none
+
+$color-white: #fff
+$color-blue: #3A87F2
+$color-blue_2: #347ADA
+$color-red: #F25050
+$color-dark-blue: #185ab6
+$color-dark-red: #b53d3d
+$font-family: "Segoe UI", Regular
+$padding: 150px
+$color-grey: #434b56
+
+.bg-blue
+  background: $color-blue
+
+.bg-red
+  background: $color-red
+
+.color-white
+  color: $color-white !important
+
+.color-grey
+  color: $color-grey
+
+
+a.my-btn
+  text-decoration: none
+  color: $color-white
+  display: inline-block
+  line-height: 45px
+  padding: 0 20px
+  text-transform: uppercase
+  letter-spacing: 1px
+  font-size: 20px
+  border-radius: 50px
+  top: 0
+  position: relative
+  font-weight: 500
+a.my-btn-1
+  color: $color-white
+  box-shadow: 0 5px 0 $color-dark-blue
+  transition: 0.3s
+  &:hover
+    top: 2px
+    box-shadow: 0 3px 0 $color-dark-blue
+    background: $color-red
+    color: $color-white
+a.my-btn-2
+  color: $color-white
+  box-shadow: 0 5px 0 $color-dark-red
+  transition: 0.3s
+  &:hover
+    top: 2px
+    box-shadow: 0 3px 0 $color-dark-red
+    background: $color-white
+    color: $color-blue !important
+#menu
+  box-shadow: 0 3px 5px #00000029
+.navbar-brand img
+  width: 105px
+  height: 75px
+
+.navbar
+  ul
+    display: flex
+    justify-content: center
+    align-items: center
+    margin: 0 10px
+  li
+    margin: 0 10px
+  li.active a
+    color: $color-red
+  a
+    font-family: "Segoe UI", Regular
+    font-size: 20px
+    font-weight: 500
+    color: $color-blue
+    &:hover
+      color: $color-red
+
+
+#main-block
+  height: 800px
+  width: 100%
+  padding: 150px
+  overflow: hidden
+  .main-img
+    width: 100%
+    height: 100%
+    overflow: hidden
+    img
+      width: 100%
+      height: auto
+  a
+    padding: 20px 50px
+
+//.circle_1
+//  content: ""
+//  position: relative
+//  float: right
+//  top: -5%
+//  left: 17%
+//  display: block
+//  width: 1200px
+//  height: 1200px
+//  background: #267ae1 0 0 no-repeat padding-box
+//  border: 1px solid #267ae1
+//  opacity: 0.55
+//  border-radius: 50%
+//  overflow: hidden
+
+.h1
+  font-size: 2.8vw
+  font-family: $font-family
+  //color: $color-blue_2
+
+.h2
+  font-size: 2vw
+  font-family: $font-family
+
+.p
+  font-size: 1.2vw
+  font-family: $font-family
+
+
+
+#advantages
+  padding-top: $padding
+  padding-bottom: $padding
+  text-align: center
+  .h1
+    color: $color-white
+
+#items
+  padding-top: $padding
+  padding-bottom: $padding
+  position: relative
+  .bg-img
+    overflow: hidden
+    bottom: 150px
+    img
+      width: 100%
+      height: auto
+  .card
+    margin: 25px 0
+    box-shadow: 3px 3px 5px #00000029
+    border: 1px solid #D9D9D9
+    border-radius: 20px
+
+    &:hover
+      box-shadow: 3px 3px 6px #434b56
+      opacity: 1
+#start-test
+  height: 500px
+  padding: 70px 0
+  .h1
+    font-weight: 700
+  .h2
+    font-weight: 300
+#about-us
+  padding: 70px 0
+  position: relative
+  .bg-img-2
+    overflow: hidden
+    top: 300px
+    right: 0
+    img
+      width: 100%
+      height: auto
+  .p
+    font-size: 16px
+  img
+    width: 100%
+    height: auto
+  .block_1
+    align-items: center
+    justify-content: center
+  .card
+    padding: 30px
+    border: none
+    border-radius: 20px
+    box-shadow: 3px 3px 5px #00000029
+  .slick-prev, .slick-next
+    font-size: 0
+    line-height: 0
+    position: absolute
+    top: 50%
+    width: 20px
+    height: 20px
+    padding: 0
+    transform: translate(0, -50%)
+    border: none
+  .slick-prev
+    left: -25px
+  .slick-next
+    right: -25px
+  .slick-prev:before
+    content: "\f104"
+    font-family: 'Font Awesome 5 Free'
+    color: $color-grey
+    font-weight: 900
+    font-size: 30px
+  .slick-next:before
+    content: "\f105"
+    font-family: 'Font Awesome 5 Free'
+    color: $color-grey
+    font-weight: 900
+    font-size: 30px
+  .form-group
+    input, textarea
+      border: 1px solid $color-grey
+#footer
+  padding: 70px
+  .nav-link
+    padding: 0
+    a
+      font-family: "Segoe UI", Regular
+      font-size: 20px
+      font-weight: 500
+      color: $color-blue
+    &:hover
+      color: $color-red !important
